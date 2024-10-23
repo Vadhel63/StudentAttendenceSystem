@@ -10,4 +10,3 @@
 
 ---
 
-### [Schema File](https://github.com/Dharmesh-Poriya07/DotNetCoreMVCProject_CE019_CE110/blob/main/DataBase.dacpac)
